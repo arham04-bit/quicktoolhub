@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quicktoolhub.vercel.app/sitemap.xml
